@@ -26,6 +26,7 @@
 /* Begin PBXFileReference section */
 		60C6E7E706E719CA7BE751EA /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		60C6E9FF4C0A114E9627E73F /* AlgoRun */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = AlgoRun; sourceTree = BUILT_PRODUCTS_DIR; };
+		60C6EC45F356C6302C7D5958 /* .gitignore */ = {isa = PBXFileReference; lastKnownFileType = file.gitignore; path = .gitignore; sourceTree = "<group>"; };
 		C67E380D27C0BE2F005EF3E9 /* LIExceptionHandler.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = LIExceptionHandler.m; sourceTree = "<group>"; };
 		C67E380F27C0BE58005EF3E9 /* AlgoRun-Bridging-Header.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "AlgoRun-Bridging-Header.h"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -46,6 +47,7 @@
 			children = (
 				60C6EB7F569A1EBB6BFD68C7 /* Products */,
 				60C6EEEB7D8A5385D1FFEBE7 /* AlgoRun */,
+				60C6EC45F356C6302C7D5958 /* .gitignore */,
 			);
 			sourceTree = "<group>";
 		};
