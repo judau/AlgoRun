@@ -1,3 +1,3 @@
 # AlgoRun
 
-Swift playground for algo-method.com
+Personal Swift playground for algo-method.com
